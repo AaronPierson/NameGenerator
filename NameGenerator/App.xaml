@@ -1,0 +1,12 @@
+﻿<Application
+    x:Class="NameGenerator.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:NameGenerator"
+    xmlns:Windows10FallCreatorsUpdate="http://schemas.microsoft.com/winfx/2006/xaml/presentation?IsApiContractPresent(Windows.Foundation.UniversalApiContract, 5)">
+    <Application.Resources>
+        <ResourceDictionary >
+            <!--<Windows10FallCreatorsUpdate:AcrylicBrush x:Key="MyAcrylic" TintOpacity=".4" TintColor="White" BackgroundSource="HostBackdrop" FallbackColor="Aqua"/>-->
+        </ResourceDictionary>
+    </Application.Resources>
+</Application>
